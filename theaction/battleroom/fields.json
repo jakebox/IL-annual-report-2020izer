@@ -1,0 +1,606 @@
+{
+    "blank_form.pdf": {
+        "0": {
+            "type": "Button",
+            "name": "Print",
+            "namealt": "print form",
+            "flags": "65536",
+            "justification": "Left"
+        },
+        "1": {
+            "type": "Button",
+            "name": "Reset",
+            "namealt": "reset form",
+            "flags": "65536",
+            "justification": "Left"
+        },
+        "2": {
+            "type": "Text",
+            "name": "1",
+            "flags": "12582912",
+            "justification": "Left"
+        },
+        "3": {
+            "type": "Text",
+            "name": "2",
+            "flags": "12582912",
+            "justification": "Left"
+        },
+        "4": {
+            "type": "Text",
+            "name": "3",
+            "flags": "12582912",
+            "justification": "Left"
+        },
+        "5": {
+            "type": "Text",
+            "name": "5",
+            "flags": "12582912",
+            "justification": "Left"
+        },
+        "6": {
+            "type": "Text",
+            "name": "6",
+            "flags": "12582912",
+            "justification": "Left"
+        },
+        "7": {
+            "type": "Text",
+            "name": "7",
+            "flags": "12582912",
+            "justification": "Left"
+        },
+        "8": {
+            "type": "Text",
+            "name": "8",
+            "flags": "12582912",
+            "justification": "Left"
+        },
+        "9": {
+            "type": "Text",
+            "name": "9",
+            "flags": "12582912",
+            "justification": "Left"
+        },
+        "10": {
+            "type": "Text",
+            "name": "10",
+            "flags": "12582912",
+            "justification": "Left"
+        },
+        "11": {
+            "type": "Text",
+            "name": "11",
+            "flags": "12582912",
+            "justification": "Left"
+        },
+        "12": {
+            "type": "Text",
+            "name": "13",
+            "flags": "12582912",
+            "justification": "Left"
+        },
+        "13": {
+            "type": "Text",
+            "name": "14",
+            "flags": "12582912",
+            "justification": "Left"
+        },
+        "14": {
+            "type": "Text",
+            "name": "15",
+            "flags": "12582912",
+            "justification": "Left"
+        },
+        "15": {
+            "type": "Text",
+            "name": "16",
+            "flags": "12582912",
+            "justification": "Left"
+        },
+        "16": {
+            "type": "Text",
+            "name": "17",
+            "flags": "12582912",
+            "justification": "Left"
+        },
+        "17": {
+            "type": "Text",
+            "name": "18",
+            "flags": "12582912",
+            "justification": "Left"
+        },
+        "18": {
+            "type": "Button",
+            "name": "cb1",
+            "flags": "0",
+            "justification": "Left",
+            "stateoption": [
+                "1",
+                "Off"
+            ]
+        },
+        "19": {
+            "type": "Button",
+            "name": "cb1a",
+            "flags": "0",
+            "justification": "Left",
+            "stateoption": [
+                "2",
+                "Off"
+            ]
+        },
+        "20": {
+            "type": "Text",
+            "name": "19",
+            "flags": "12582912",
+            "justification": "Left"
+        },
+        "21": {
+            "type": "Text",
+            "name": "20",
+            "flags": "12582912",
+            "justification": "Left"
+        },
+        "22": {
+            "type": "Text",
+            "name": "21",
+            "flags": "12582912",
+            "justification": "Left"
+        },
+        "23": {
+            "type": "Text",
+            "name": "22",
+            "flags": "12582912",
+            "justification": "Left"
+        },
+        "24": {
+            "type": "Text",
+            "name": "23",
+            "flags": "12582912",
+            "justification": "Left"
+        },
+        "25": {
+            "type": "Text",
+            "name": "24",
+            "flags": "12582912",
+            "justification": "Left"
+        },
+        "26": {
+            "type": "Text",
+            "name": "25",
+            "flags": "12582912",
+            "justification": "Left"
+        },
+        "27": {
+            "type": "Text",
+            "name": "26",
+            "flags": "12582912",
+            "justification": "Left"
+        },
+        "28": {
+            "type": "Text",
+            "name": "27",
+            "flags": "12582912",
+            "justification": "Left"
+        },
+        "29": {
+            "type": "Text",
+            "name": "28",
+            "flags": "12582912",
+            "justification": "Left"
+        },
+        "30": {
+            "type": "Text",
+            "name": "29",
+            "flags": "12582912",
+            "justification": "Left"
+        },
+        "31": {
+            "type": "Text",
+            "name": "30",
+            "flags": "12582912",
+            "justification": "Left"
+        },
+        "32": {
+            "type": "Text",
+            "name": "31",
+            "flags": "12582912",
+            "justification": "Left"
+        },
+        "33": {
+            "type": "Text",
+            "name": "32",
+            "flags": "12582912",
+            "justification": "Left"
+        },
+        "34": {
+            "type": "Text",
+            "name": "33",
+            "flags": "12582912",
+            "justification": "Left"
+        },
+        "35": {
+            "type": "Text",
+            "name": "34",
+            "flags": "12582912",
+            "justification": "Left"
+        },
+        "36": {
+            "type": "Button",
+            "name": "cb2",
+            "flags": "0",
+            "justification": "Left",
+            "stateoption": [
+                "Yes",
+                "Off"
+            ]
+        },
+        "37": {
+            "type": "Button",
+            "name": "cb3",
+            "flags": "0",
+            "justification": "Left",
+            "stateoption": [
+                "Yes",
+                "Off"
+            ]
+        },
+        "38": {
+            "type": "Text",
+            "name": "37",
+            "flags": "12582912",
+            "justification": "Right"
+        },
+        "39": {
+            "type": "Text",
+            "name": "38",
+            "flags": "12582912",
+            "justification": "Right"
+        },
+        "40": {
+            "type": "Text",
+            "name": "39",
+            "flags": "12582912",
+            "justification": "Right"
+        },
+        "41": {
+            "type": "Text",
+            "name": "40",
+            "flags": "12582912",
+            "justification": "Right"
+        },
+        "42": {
+            "type": "Text",
+            "name": "41",
+            "flags": "12582912",
+            "justification": "Right"
+        },
+        "43": {
+            "type": "Text",
+            "name": "42",
+            "flags": "12582912",
+            "justification": "Right"
+        },
+        "44": {
+            "type": "Text",
+            "name": "43",
+            "flags": "12582912",
+            "justification": "Right"
+        },
+        "45": {
+            "type": "Text",
+            "name": "44",
+            "flags": "12582912",
+            "justification": "Right"
+        },
+        "46": {
+            "type": "Text",
+            "name": "45",
+            "flags": "12582912",
+            "justification": "Right"
+        }
+    },
+    "blank_form": {
+        "0": {
+            "type": "Button",
+            "name": "Print",
+            "namealt": "print form",
+            "flags": "65536",
+            "justification": "Left"
+        },
+        "1": {
+            "type": "Button",
+            "name": "Reset",
+            "namealt": "reset form",
+            "flags": "65536",
+            "justification": "Left"
+        },
+        "2": {
+            "type": "Text",
+            "name": "1",
+            "flags": "12582912",
+            "justification": "Left"
+        },
+        "3": {
+            "type": "Text",
+            "name": "2",
+            "flags": "12582912",
+            "justification": "Left"
+        },
+        "4": {
+            "type": "Text",
+            "name": "3",
+            "flags": "12582912",
+            "justification": "Left"
+        },
+        "5": {
+            "type": "Text",
+            "name": "5",
+            "flags": "12582912",
+            "justification": "Left"
+        },
+        "6": {
+            "type": "Text",
+            "name": "6",
+            "flags": "12582912",
+            "justification": "Left"
+        },
+        "7": {
+            "type": "Text",
+            "name": "7",
+            "flags": "12582912",
+            "justification": "Left"
+        },
+        "8": {
+            "type": "Text",
+            "name": "8",
+            "flags": "12582912",
+            "justification": "Left"
+        },
+        "9": {
+            "type": "Text",
+            "name": "9",
+            "flags": "12582912",
+            "justification": "Left"
+        },
+        "10": {
+            "type": "Text",
+            "name": "10",
+            "flags": "12582912",
+            "justification": "Left"
+        },
+        "11": {
+            "type": "Text",
+            "name": "11",
+            "flags": "12582912",
+            "justification": "Left"
+        },
+        "12": {
+            "type": "Text",
+            "name": "13",
+            "flags": "12582912",
+            "justification": "Left"
+        },
+        "13": {
+            "type": "Text",
+            "name": "14",
+            "flags": "12582912",
+            "justification": "Left"
+        },
+        "14": {
+            "type": "Text",
+            "name": "15",
+            "flags": "12582912",
+            "justification": "Left"
+        },
+        "15": {
+            "type": "Text",
+            "name": "16",
+            "flags": "12582912",
+            "justification": "Left"
+        },
+        "16": {
+            "type": "Text",
+            "name": "17",
+            "flags": "12582912",
+            "justification": "Left"
+        },
+        "17": {
+            "type": "Text",
+            "name": "18",
+            "flags": "12582912",
+            "justification": "Left"
+        },
+        "18": {
+            "type": "Button",
+            "name": "cb1",
+            "flags": "0",
+            "justification": "Left",
+            "stateoption": [
+                "1",
+                "Off"
+            ]
+        },
+        "19": {
+            "type": "Button",
+            "name": "cb1a",
+            "flags": "0",
+            "justification": "Left",
+            "stateoption": [
+                "2",
+                "Off"
+            ]
+        },
+        "20": {
+            "type": "Text",
+            "name": "19",
+            "flags": "12582912",
+            "justification": "Left"
+        },
+        "21": {
+            "type": "Text",
+            "name": "20",
+            "flags": "12582912",
+            "justification": "Left"
+        },
+        "22": {
+            "type": "Text",
+            "name": "21",
+            "flags": "12582912",
+            "justification": "Left"
+        },
+        "23": {
+            "type": "Text",
+            "name": "22",
+            "flags": "12582912",
+            "justification": "Left"
+        },
+        "24": {
+            "type": "Text",
+            "name": "23",
+            "flags": "12582912",
+            "justification": "Left"
+        },
+        "25": {
+            "type": "Text",
+            "name": "24",
+            "flags": "12582912",
+            "justification": "Left"
+        },
+        "26": {
+            "type": "Text",
+            "name": "25",
+            "flags": "12582912",
+            "justification": "Left"
+        },
+        "27": {
+            "type": "Text",
+            "name": "26",
+            "flags": "12582912",
+            "justification": "Left"
+        },
+        "28": {
+            "type": "Text",
+            "name": "27",
+            "flags": "12582912",
+            "justification": "Left"
+        },
+        "29": {
+            "type": "Text",
+            "name": "28",
+            "flags": "12582912",
+            "justification": "Left"
+        },
+        "30": {
+            "type": "Text",
+            "name": "29",
+            "flags": "12582912",
+            "justification": "Left"
+        },
+        "31": {
+            "type": "Text",
+            "name": "30",
+            "flags": "12582912",
+            "justification": "Left"
+        },
+        "32": {
+            "type": "Text",
+            "name": "31",
+            "flags": "12582912",
+            "justification": "Left"
+        },
+        "33": {
+            "type": "Text",
+            "name": "32",
+            "flags": "12582912",
+            "justification": "Left"
+        },
+        "34": {
+            "type": "Text",
+            "name": "33",
+            "flags": "12582912",
+            "justification": "Left"
+        },
+        "35": {
+            "type": "Text",
+            "name": "34",
+            "flags": "12582912",
+            "justification": "Left"
+        },
+        "36": {
+            "type": "Button",
+            "name": "cb2",
+            "flags": "0",
+            "justification": "Left",
+            "stateoption": [
+                "Yes",
+                "Off"
+            ]
+        },
+        "37": {
+            "type": "Button",
+            "name": "cb3",
+            "flags": "0",
+            "justification": "Left",
+            "stateoption": [
+                "Yes",
+                "Off"
+            ]
+        },
+        "38": {
+            "type": "Text",
+            "name": "37",
+            "flags": "12582912",
+            "justification": "Right"
+        },
+        "39": {
+            "type": "Text",
+            "name": "38",
+            "flags": "12582912",
+            "justification": "Right"
+        },
+        "40": {
+            "type": "Text",
+            "name": "39",
+            "flags": "12582912",
+            "justification": "Right"
+        },
+        "41": {
+            "type": "Text",
+            "name": "40",
+            "flags": "12582912",
+            "justification": "Right"
+        },
+        "42": {
+            "type": "Text",
+            "name": "41",
+            "flags": "12582912",
+            "justification": "Right"
+        },
+        "43": {
+            "type": "Text",
+            "name": "42",
+            "flags": "12582912",
+            "justification": "Right"
+        },
+        "44": {
+            "type": "Text",
+            "name": "43",
+            "flags": "12582912",
+            "justification": "Right"
+        },
+        "45": {
+            "type": "Text",
+            "name": "44",
+            "flags": "12582912",
+            "justification": "Right"
+        },
+        "46": {
+            "type": "Text",
+            "name": "45",
+            "flags": "12582912",
+            "justification": "Right"
+        }
+    }
+}
